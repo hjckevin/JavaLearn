@@ -1,6 +1,6 @@
 package MumDirectEntry;
 
-public class SimpleLoop {
+public class PQ1_SimpleLoop {
 
 	public static void main(String[] args) {
 		String[] str = {"Bob", "Steve", "Sue", "Tony", "Melba"};
